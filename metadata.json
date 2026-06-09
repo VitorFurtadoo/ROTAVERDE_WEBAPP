@@ -1,0 +1,6 @@
+{
+  "name": "RotaVerde",
+  "description": "Sistema Inteligente de Gestão de Coleta de Resíduos Sólidos e BI de Telemetria",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
